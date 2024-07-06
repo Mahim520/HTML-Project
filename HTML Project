@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+</body>
+<div class="swiper-button-prev swiper-button-white"></div>
+
+<!--****** Main Banner Area End*****-->
+
+<section class="services"id="services">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 offset-lg-3">
+
+
+        <div class="section-heading">
+            <h6>Our services</h6>
+        <h4>know Us Better</h4>
+
+        </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="service-item">
+                    <i class="fas fa-archive"></i>
+                    <h4>Web Design</h4>
+                    <p>Our creative and expert web designers can develop your dream website based on your idea in an affordable price And alwys support for any problem of the website.
+                        A responsive website can make your business more successful.</p>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="service-item">
+
+                  <div class="fas fa-cloud"></i>
+                    <h4>Digital Marketing</h4>
+                    <p>Our digital marketing serice are designed to deliver 
+                        converstion through SEO, SEM,SMO and online reputaion.</p>
+                     </div>
+                     </div>
+                     <div class="col-lg-6">
+                        <div class="service-item">
+                            <i class="fas fa-charging-station"></i>
+                            <h4>Graphic Design</h4>
+                            <p>We provide quality logo ,banner,poster etc design and manipulation. We have zero 
+                                tolerance policy regarding quality.</p>
+
+                        </div>
+                     </div>
+                     <div class="col-lg-6">
+                        <div class="service-item">
+                            <i class="fas fa-charging-suitcase"></i>
+                            <h4>Software Development</h4>
+                            <p>Our creatie and expert developer can develop your dream software based on  your idea  in an affordable price
+                                 And always support for any problem of the software.A creative can make your business more succcesfuk.</p>
+
+                        </div>
+                     </div>
+                     <div class="col-lg-6">
+                        <div class="service-item">
+                            <i class="fas fa-archway"></i>
+                            <h4>UI/UX Design</h4>
+                                <P>Your dream of developing Website can come true with our skilled and experience Ux/UI Designer and Developer.
+                                     Convert your innovative into realilty.</P>
+
+                        </div>
+                     </div>
+                     <div class="col-lg-6">
+                        <div class="service-item">
+                            <i class="fas-fa-puzzle-piece"></i>
+                            <h4>Mobile App Development</h4>
+                            <p>Our creative and expert developer can develop your dream mobile app based on your idea in an affordable price.
+                                And always support for any problem of the application.A creative mobile app can make your business  more successful.</p>
+
+
+
+
+                        </div>
+                     </div>
+                    </div>
+                </div>
+            </section>
+            <section clas="simple-cta">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-5">
+                            <h4>Business<em>Solutions</em>and<strong>trusted</strong>parters</h4>
+
+                        </div>
+                        <div class="col-lg-7">
+                            <div class="buttons">
+                                <div class="green-button">
+                                    <a href="#">Contact Us</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </section>
+<section class="about-us"id="abput">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 offset-lg-3">
+                <div class="section-heading">
+                    <h6>About Us</h6>
+                    <h4>Know Us Better</h4>
+
+                </div>
+            </div>
+            <div class="col-lg-8">
+                <div class="naccs">
+                    <div class="tabs">
+                        <div class="row">
+                            <div class="col-lg-12">
+                                <div class="menu">
+                                    <div class="active gradient-border"><span>Web Design</span></div>
+                                    <div class="gradient-border">span>Graphics</span><div>
+                                        <div class="gradient-border"><span>Web Development</span></div>
+
+                                </div>
+                            </div>
+                            <div class="col-lg-12">
+                                <ul class="nacc">
+                                    <li class="active">
+
+                            </div>
+                            <div class="main-list">
+                                <span class="title>Project Title </span">
+                                    <span class="title">Budget</span>''
+                                    <span class="title">Deadline</span>
+                                    <span class="title">Client</span>
+
+                                     
+                            </div>
+                            <div class="list-item">
+                            <span class="item item-title">Website Redesign</span>
+                            <span class="item">$1,500 to $2,200</span>
+                            <span class="item">2022 Dec 12</span>
+                            <span class="item">Web Biz</span>
+
+                    </div>
+                    <div class="list-item">
+                        <span class="item item-title">Website Renovation</span>
+                    <span class="item">$2,500 to $3,600</span>
+                    <span class="item">2022 Dec 10</span>
+                    <Span class="iitem">Online Ads</Span>
+                </div>
+                <div class="list-item">
+                
+                <span class="item-title">Marketing plan</span>
+                <span class="item">$2,500 to $4,200</span>
+                <span class="item">2022 Dec 8</span>
+                <span calss="item">Web Biz</span>
+            </div>
+            <div class="item-item last-item">
+                <span  class="item item-title">All-new Website</span>
+                <span class="item">$3,000 to 6,600</span>
+                <span class="item">2022 Dec 2</span>
+                <span class="item">Web presence</span>
+
+            </div>
+        </div>
+    </li>
+</li>
+<div>
+
+
+
+
+</body>
+                     
